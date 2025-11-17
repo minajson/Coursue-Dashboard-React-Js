@@ -1,0 +1,6 @@
+.container{
+    min-height:100vh;padding:24px;background:var(--bg)
+}
+.grid-3col{
+    display:grid;grid-template-columns:260px 1fr 320px;gap:24px;padding:24px
+}
