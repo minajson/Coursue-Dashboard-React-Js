@@ -11,6 +11,12 @@ export default function CoursueDashboard () {
     return (
        <div className="maxwrap">
 <div className="grid-3col">
+    <button className="btn" style={{ width: '100%' }}>
+  <div className="icon-lg" style={{ width:'100%', borderRadius:'16px', fontWeight:600, justifyContent:'center', display:'flex' }}>
+    See All
+  </div>
+</button>
+
 <Sidebar />
 
 
