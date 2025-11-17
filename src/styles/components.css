@@ -1,0 +1,7 @@
+.topbar{display:flex;align-items:center;gap:16px}
+.topbar .search{position:relative;flex:1}
+.topbar .profile{display:flex;align-items:center;gap:12px;background:var(--muted);padding:8px 12px;border-radius:18px}
+
+
+.section-title{font-size:18px;font-weight:600;margin:0 0 12px}
+.course-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
